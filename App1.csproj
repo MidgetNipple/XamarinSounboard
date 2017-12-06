@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9FAAF2D7-28B6-472A-95F1-57CAB9C4F315}</ProjectGuid>
+    <ProjectGuid>{B05CF420-C4F6-46CE-B25F-8F0088C5DED3}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -77,30 +77,6 @@
     <Folder Include="Resources\mipmap-xhdpi\" />
     <Folder Include="Resources\mipmap-xxhdpi\" />
     <Folder Include="Resources\mipmap-xxxhdpi\" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\lick_my_balls.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\test.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\test2.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\test3.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\Awww_Bitch.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\Good_Job.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\rick.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\raw\Ryan.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
